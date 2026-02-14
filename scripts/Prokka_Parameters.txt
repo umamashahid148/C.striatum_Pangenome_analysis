@@ -1,0 +1,40 @@
+ Dataset Information
+Number 	3483
+Name 	Prokka on dataset 2595: log
+Created 	Tuesday Feb 3rd 10:41:07 2026 GMT+5:30
+Filesize 	38.5 KB
+Dbkey 	?
+Format 	txt
+File contents 	contents
+History Content API ID 	
+26c75dcccb616ac8f99f16cff432fb49
+History API ID 	
+11ac94870d0bb33aaab010506f68b7a6 (view)
+UUID 	ef275e7f-bc72-4fa2-ae1b-f0f28ab3a488
+Full Path 	/data/dnb12/galaxy_db/files/e/f/2/dataset_ef275e7f-bc72-4fa2-ae1b-f0f28ab3a488.dat
+Originally Created From a File Named 	prokka.log
+Tool Parameters
+Input Parameter 	Value
+Contigs to annotate 	
+Locus tag prefix 	Empty.
+Locus tag counter increment 	1
+GFF version 	3
+Force GenBank/ENA/DDJB compliance 	false
+Add 'gene' features for each 'CDS' feature (--addgenes) 	false
+Minimum contig size (--mincontiglen) 	200
+Sequencing centre ID 	Empty.
+Genus name 	Corynebacterium
+Species name 	striatum
+Strain name 	Empty.
+Plasmid name or identifier 	Empty.
+Kingdom 	Bacteria
+Genetic code (transl_table) 	11
+Use genus-specific BLAST database 	false
+Optional FASTA file of trusted proteins to first annotate from 	
+Improve gene predictions for highly fragmented genomes 	false
+Fast mode 	false
+Similarity e-value cut-off 	0.000001
+Enable searching for ncRNAs with Infernal+Rfam (SLOW!) 	false
+Don't run rRNA search with Barrnap 	false
+Don't run tRNA search with Aragorn 	false
+Additional outputs 	Annotation in GFF3 format, containing both sequences and annotations (.gff) Standard GenBank file. If the input was a multi-FASTA, then this will be a multi-GenBank, with one record for each sequence (.gbk) Nucleotide FASTA file of the input contig sequences (.fna) Protein FASTA file of the translated CDS sequences (.faa) Nucleotide FASTA file of all the annotated sequences, not just CDS (.ffn) An ASN1 format "Sequin" file for submission to GenBank. It needs to be edited to set the correct taxonomy, authors, related publication, etc. (.sqn) Nucleotide FASTA file of the input contig sequences, with extra Sequin tags in the sequence description lines (.fsa) Feature Table file (.tbl) Annotations in tabular format including COGs etc. Unacceptable annotations - the NCBI discrepancy report (.err) Statistics relating to the annotated features found (.txt) 
