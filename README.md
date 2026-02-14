@@ -84,9 +84,8 @@ All analyses are performed using relative file paths to ensure portability.
 
 ## Citation
 
-If you use this repository or its code, please cite the associated manuscript:
+If you use this repository or its code, please cite the associated manuscript: (in progress)
 
-Shahid, U. (2026). Pan-genome architecture and antimicrobial resistance profiling of Corynebacterium striatum. [Journal details forthcoming].
 
 ---
 
