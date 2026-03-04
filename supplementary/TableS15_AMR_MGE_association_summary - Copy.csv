@@ -1,0 +1,7 @@
+Metric,Value
+Total AMR genes,6883.0
+AMR near MGE (±10 genes),6421.0
+Observed proportion near MGE,0.9329
+Expected random proportion,0.128
+Odds ratio (Fisher),24.41
+Fisher exact p-value,0.0
